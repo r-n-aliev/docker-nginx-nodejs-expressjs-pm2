@@ -1,0 +1,1 @@
+docker build -t rnoaliev/nginx-nodejs-expressjs-pm2
